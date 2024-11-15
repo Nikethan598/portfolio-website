@@ -1,0 +1,22 @@
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+header {
+  background: linear-gradient(90deg, #007bff, #0056b3);
+  color: #fff;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+footer {
+  background-color: #343a40;
+  color: #ccc;
+}
